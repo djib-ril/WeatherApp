@@ -19,7 +19,6 @@
 }
 .cont{
     background: white;
-    opacity: 0.2;
 }
 #weatherResult{
     box-shadow: 0 0 10px black;
@@ -48,17 +47,10 @@ input{
     border: none;
     box-shadow: 0 0 20px black;
 }
-.background-clip{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    top: 0;
-    z-index: -1;
-}
 .container{
     width: 100%;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: white;
 }
 h1, #weatherResult{
     color: white;
@@ -72,3 +64,4 @@ hr{
     left: 70px;
 
 }
+
