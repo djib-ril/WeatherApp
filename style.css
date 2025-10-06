@@ -18,7 +18,7 @@
 
 }
 .cont{
-    background: white;
+    background-color: white;
 }
 #weatherResult{
     box-shadow: 0 0 10px black;
@@ -64,4 +64,5 @@ hr{
     left: 70px;
 
 }
+
 
