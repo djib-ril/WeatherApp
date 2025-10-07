@@ -12,7 +12,6 @@
     box-shadow: 0 0 20px black;
     border-radius: 40px;
     padding: 20px;
-    background: black;
     backdrop-filter: blur(100px);
     padding: 50px
 
@@ -64,5 +63,6 @@ hr{
     left: 70px;
 
 }
+
 
 
