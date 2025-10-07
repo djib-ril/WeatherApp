@@ -3,9 +3,6 @@
     box-sizing: border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-body{
-    background-color: blue;
-}
 .weather-container{
     position: relative;
     top: 150px;
@@ -48,7 +45,7 @@ input{
 }
 .container{
     background: url("https://cdn.pixabay.com/photo/2017/05/05/15/05/lightning-2287319_1280.jpg");
-    background-size: 100% 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -65,6 +62,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
