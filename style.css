@@ -4,7 +4,6 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .weather-container{
-    background-color: white;
     position: relative;
     top: 150px;
     text-align: center;
@@ -62,6 +61,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
