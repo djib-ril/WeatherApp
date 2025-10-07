@@ -3,6 +3,9 @@
     box-sizing: border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+body{
+    background-color: blue;
+}
 .weather-container{
     position: relative;
     top: 150px;
@@ -62,6 +65,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
