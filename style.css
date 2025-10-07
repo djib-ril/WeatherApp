@@ -4,7 +4,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background: linear-gradient(180deg, purple, aqua);
+    background: linear-gradient(90deg, purple, aqua);
 }
 .weather-container{
     position: relative;
@@ -58,6 +58,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
