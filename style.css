@@ -53,7 +53,7 @@ input{
     background-color: white;
 }
 h1, #weatherResult{
-    color: white;
+    color: black;
     font-weight: bolder;
 }
 input, button{
@@ -64,6 +64,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
