@@ -17,9 +17,6 @@
     padding: 50px
 
 }
-.cont{
-    background-color: white;
-}
 #weatherResult{
     box-shadow: 0 0 10px black;
     border-radius: 30px;
@@ -50,7 +47,7 @@ input{
 .container{
     width: 100%;
     height: 100vh;
-    background-color: white;
+    background: url("https://cdn.pixabay.com/photo/2017/05/05/15/05/lightning-2287319_1280.jpg");
 }
 h1, #weatherResult{
     color: black;
@@ -64,6 +61,7 @@ hr{
     left: 70px;
 
 }
+
 
 
 
